@@ -1,5 +1,3 @@
-<h3 align="center">bok</h3>
-
 [![jbok's 42 stats](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 
