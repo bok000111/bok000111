@@ -10,7 +10,7 @@
 [![jbok's 42 stats](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 <details>
-    <summary>42Seoul subjects</summary>
+    <summary>jbok's 42Seoul subjects</summary>
 
 jbok's 42 get_next_line Score - [![jbok's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2875798)](https://github.com/JaeSeoKim/badge42)
 jbok's 42 miniRT Score - [![jbok's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2964931)](https://github.com/JaeSeoKim/badge42)
