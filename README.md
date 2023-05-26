@@ -12,7 +12,7 @@
 <details>
     <summary>jbok's 42Seoul subjects</summary>
 
-    <a href="https://github.com/JaeSeoKim/badge42">Libft - <img src="https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918" alt="jbok's 42 Libft Score" /></a>
+    <a href="https://github.com/JaeSeoKim/badge42">"Libft - "<img src="https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918" alt="jbok's 42 Libft Score" /></a>
     get_next_line - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2875798" alt="jbok's 42 get_next_line Score" /></a>
 
 </details>
