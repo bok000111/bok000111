@@ -1,7 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&text=jbok's%20profile&fontColor=555555&fontSize=40)
+
+
+---
+
 [![jbok's 42 stats](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bok000111)](https://solved.ac/bok000111/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bok000112)](https://solved.ac/bok000112/)
+
+---
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
