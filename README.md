@@ -12,6 +12,6 @@
 <details>
     <summary>42Seoul subjects</summary>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918" alt="jbok's 42 Libft Score" /></a>
+[![jbok's 42 Libft Score](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918)](https://github.com/JaeSeoKim/badge42)
 
 </details>
