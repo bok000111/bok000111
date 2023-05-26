@@ -12,6 +12,6 @@
 <details>
     <summary>jbok's 42Seoul subjects</summary>
 
-    Libft - [![jbok's 42 Libft Score](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918)](https://github.com/JaeSeoKim/badge42)
+Libft - [![jbok's 42 Libft Score](https://badge42.vercel.app/api/v2/clbbu177l00540fmaohi9lqu9/project/2867918)](https://github.com/JaeSeoKim/badge42)
 
 </details>
