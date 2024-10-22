@@ -17,7 +17,7 @@
   - [ft_transcendence](https://github.com/bok000111/ft_transcendence): Django, Redis와 WebSocket을 사용한 웹게임 개발, JWT 및 OAuth 인증, Docker Compose 기반 배포 자동화.
 
 - Toy Projects
-  - [mac-spotlight-setter](https://github.com/bok000111/MacSpotlightSetter): 마이크로소프트의 스포트라이트 api를 이용하여 맥북의 배경화면을 자동으로 설정하는 프로그램. (인텔, 애플 cpu 모두 지원)
+  - [mac-spotlight-setter](https://github.com/bok000111/MacSpotlightSetter): 마이크로소프트의 스포트라이트 api를 이용하여 맥의 배경화면을 자동으로 설정하는 프로그램. (인텔, 애플 cpu 모두 지원)
 
 ## Tech Stack
 
