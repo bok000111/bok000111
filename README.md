@@ -4,7 +4,7 @@
   - Minitalk: UNIX 시스템에서 시그널을 이용한 IPC 구현.
   - Minishell: Unix 쉘의 기본 기능 (프로세스 관리, 리다이렉션, 파이프) 구현.
   - Philosopher: 철학자 문제를 멀티스레딩, 멀티프로세싱과 동기화 기법으로 해결.
-  - [FT_IRC](https://github.com/YESHYUNGSEOK/IRC): C++로 비동기 I/O와 채널 관리 기능을 갖춘 IRC 서버 개발.
+  - [FT_IRC](https://github.com/YESHYUNGSEOK/IRC): C++를 사용하여 RFC1459를 기반으로 비동기 I/O와 채널 관리 기능을 갖춘 IRC 서버 개발.
   - Inception: Docker를 이용한 컨테이너 오케스트레이션 프로젝트 (Nginx, Wordpress, MariaDB 컨테이너 구성 및 네트워킹 설정).
   - Libasm (진행중): 어셈블리어로 표준 C 라이브러리 함수 구현 (memcpy, strlen 등).
   - [computorV1](https://github.com/bok000111/computorv1) (진행중): 방정식 계산기 구현 (파싱, 계산, 출력).
