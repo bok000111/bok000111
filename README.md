@@ -18,6 +18,7 @@
 
 - Toy Projects
   - [mac-spotlight-setter](https://github.com/bok000111/MacSpotlightSetter): 마이크로소프트의 스포트라이트 api를 이용하여 맥의 배경화면을 자동으로 설정하는 프로그램. (인텔, 애플 cpu 모두 지원)
+  - [esp_wireframe](https://github.com/bok000111/esp_wireframe): ESP32-C3와 FreeRTOS 환경에서 LVGL을 활용한 간단한 와이어프레임 렌더링 및 실시간 메모리 사용량 모니터링 프로젝트. 3D 정점 변환, 투영 알고리즘, FreeRTOS 하드웨어 타이머 연동을 구현했습니다.
 
 ## Tech Stack
 
