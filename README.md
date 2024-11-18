@@ -18,7 +18,8 @@
 
 - Toy Projects
   - [mac-spotlight-setter](https://github.com/bok000111/MacSpotlightSetter): 마이크로소프트의 스포트라이트 api를 이용하여 맥의 배경화면을 자동으로 설정하는 프로그램. (인텔, 애플 cpu 모두 지원)
-  - [esp_wireframe](https://github.com/bok000111/esp_wireframe): ESP32-C3와 FreeRTOS 환경에서 LVGL을 활용한 간단한 와이어프레임 렌더링 및 실시간 메모리, 온도 모니터링 프로젝트. 3D 정점 변환, 투영 알고리즘, FreeRTOS 하드웨어 타이머 연동을 구현했습니다.
+  - [esp_wireframe](https://github.com/bok000111/esp_wireframe): ESP32-C3와 FreeRTOS 환경에서 LVGL을 활용한 간단한 와이어프레임 렌더링 및 실시간 메모리, 온도 모니터링 프로젝트. 3D 정점 변환, 투영 알고리즘, FreeRTOS 하드웨어 타이머 연동을 구현하는 프로젝트입니다.
+  - [dup_remote](https://github.com/bok000111/dup_remote): ESP32-C3와 FreeRTOS 환경에서 선풍기 리모컨의 IR 통신 프로토콜을 분석하고 복제하는 프로젝트입니다. 현재 프로토콜 분석까지 구현하였습니다.
 
 ## Tech Stack
 
@@ -32,6 +33,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Websocket](https://img.shields.io/badge/WebSocket-00DDFF?style=flat&logo=websocket&logoColor=white)
+ESP32
+FreeRTOS
 
 ## Interests & Learning
 
